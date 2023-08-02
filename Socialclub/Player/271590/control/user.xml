@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__ControlInput__ControlSettings>
+  <Mappings>
+    <Item>
+      <Input>INPUT_COVER</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_Q</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_COVER</Input>
+      <Source>IOMS_MOUSE_BUTTON</Source>
+      <Parameters>
+        <Item>MOUSE_EXTRABTN1</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_RELOAD</Input>
+      <Source>IOMS_KEYBOARD</Source>
+      <Parameters>
+        <Item>KEY_R</Item>
+      </Parameters>
+    </Item>
+    <Item>
+      <Input>INPUT_RELOAD</Input>
+      <Source>IOMS_MOUSE_BUTTON</Source>
+      <Parameters>
+        <Item>MOUSE_EXTRABTN2</Item>
+      </Parameters>
+    </Item>
+  </Mappings>
+</rage__ControlInput__ControlSettings>
