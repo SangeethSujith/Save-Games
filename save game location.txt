@@ -5,3 +5,4 @@ Orbit(Far Cry 3)		C:\ProgramData
 Doom/Doom eternal		C:\Users\sange\Saved Games
 Rdr2 				C:\Users\sange\AppData\Roaming (Put goldberg emu folder here for saves)
 				C:\Users\sange\OneDrive\Documents (Put rockstar games folder here for game settings)
+Both Most Wanted		C:\Users\Public\Documents
