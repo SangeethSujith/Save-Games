@@ -2,7 +2,7 @@ Forza 5    			C:\Users\Public\Documents (Full steam folder)
 Gta 5				C:\ProgramData
 Saved Games			C:\Users\sange
 Orbit(Far Cry 3)		C:\ProgramData
-Doom/Doom eternal		C:\Users\sange\Saved Games
+Doom/Doom eternal/Cyberpunk	C:\Users\sange\Saved Games
 Rdr2 				C:\Users\sange\AppData\Roaming (Put goldberg emu folder here for saves)
 				C:\Users\sange\OneDrive\Documents (Put rockstar games folder here for game settings)
 Both Most Wanted		C:\Users\Public\Documents
