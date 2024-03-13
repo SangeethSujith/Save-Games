@@ -6,3 +6,4 @@ Doom/Doom eternal/Cyberpunk	C:\Users\sange\Saved Games
 Rdr2 				C:\Users\sange\AppData\Roaming (Put goldberg emu folder here for saves)
 				C:\Users\sange\OneDrive\Documents (Put rockstar games folder here for game settings)
 Both Most Wanted		C:\Users\Public\Documents
+Dead Space			C:\Users\Sangeeth\Documents
